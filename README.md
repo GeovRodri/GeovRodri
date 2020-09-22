@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2> I'm Geovany Rodrigues <img src="https://media.giphy.com/media/PZShNCt8E51Ti/giphy.gif" width="50"></h2>
 
-<!--
-**GeovRodri/GeovRodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/LinkedIn-geovrodri-blue)](https://www.linkedin.com/in/geovrodri/)
+[![](https://img.shields.io/badge/Gmail-geovanyscv%40gmail.com-red)](mailto:geovanyscv@gmail.com)
+[![](https://img.shields.io/badge/Website-geovany.dev-orange)](https://geovany.dev)
 
-Here are some ideas to get you started:
+```javascript
+const geovRodri = {
+    askMeAbout: [],
+    technologies:{
+        backEnd: ["NodeJS", "Python", "Flask", "Django", "Java", "Spring"],
+        fronEnd: ["Angular", "AngularJS", "Bootstrap", "Sass"],
+        database: ["Firestore", "Firebase Realtime Database", "MongoDB", "MySQL", "PostgreSQL"],
+        serverless: ["Cloud Functions", "AWS Lambda"],
+        devOps: ["AWS", "Nginx", "Jenkins", "Apache", "Docker"],
+        misc: ["Firebase", "PWA"]
+    },
+    architecture: ["Serverless Architecture", "Microservices", "event-driven", "Single page applications"],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=GeovRodri&show_icons=true)
+
+⭐️ From [GeovRodri](https://github.com/GeovRodri)
