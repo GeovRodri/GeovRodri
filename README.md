@@ -4,16 +4,19 @@
 [![](https://img.shields.io/badge/Gmail-geovanyscv%40gmail.com-red)](mailto:geovanyscv@gmail.com)
 [![](https://img.shields.io/badge/Website-geovany.dev-orange)](https://geovany.dev)
 
+- 🚀  Full Stack developer on <a href="https://stayapp.com.br">StayApp</a>
+- 🎓  Information System graduating at IFG
+
 ```javascript
 const geovRodri = {
-    askMeAbout: [],
-    technologies:{
-        backEnd: ["NodeJS", "Python", "Flask", "Django", "Java", "Spring"],
+    technologies: {
+        code: ["Python", "Java", "JavaScript"],
+        backEnd: ["NodeJS", "Flask", "Django", "Spring"],
         fronEnd: ["Angular", "AngularJS", "Bootstrap", "Sass"],
-        database: ["Firestore", "Firebase Realtime Database", "MongoDB", "MySQL", "PostgreSQL"],
+        database: ["Firestore", "Firebase Realtime Database", "MongoDB", "MySQL", "PostgreSQL", "Elasticsearch"],
         serverless: ["Cloud Functions", "AWS Lambda"],
         devOps: ["AWS", "Nginx", "Jenkins", "Apache", "Docker"],
-        misc: ["Firebase", "PWA"]
+        misc: ["Firebase", "PWA", "Web Scraper", "Selenium"]
     },
     architecture: ["Serverless Architecture", "Microservices", "event-driven", "Single page applications"],
 }
