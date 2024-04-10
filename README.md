@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-geovanyscv%40gmail.com-red)](mailto:geovanyscv@gmail.com)
 [![](https://img.shields.io/badge/Website-geovany.dev-orange)](https://geovany.dev)
 
-- 🚀  Full Stack developer on <a href="https://stayapp.com.br">StayApp</a>
+- 🚀  CTO at <a href="https://vendoor.me">Vendoor</a>
 - 🎓  Information System graduating at IFG
 
 ```javascript
